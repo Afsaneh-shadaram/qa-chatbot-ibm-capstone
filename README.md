@@ -8,7 +8,7 @@ The goal is to build an intelligent Question Answering (QA) Bot that uses LangCh
 
 Instead of manually searching through large documents, this system allows users to ask natural language questions and receive accurate answers extracted directly from document content.
 
-This repository includes the full implementation in Python along with the screenshots.
+This repository includes the full implementation in Python.
 
 ## Demo
 
