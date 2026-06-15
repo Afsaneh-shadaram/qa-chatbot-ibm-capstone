@@ -8,6 +8,8 @@ The goal is to build an intelligent Question Answering (QA) Bot that uses LangCh
 
 Instead of manually searching through large documents, this system allows users to ask natural language questions and receive accurate answers extracted directly from document content.
 
+This repository includes the full implementation in Python along with the screenshots.
+
 ## Demo
 
 <img width="983" height="658" alt="Gradio_inputs" src="https://github.com/user-attachments/assets/9f2e5df4-b1cf-4966-b166-61d5ad85668e" />
